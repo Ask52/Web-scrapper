@@ -1,4 +1,6 @@
-# Web-scrapper
+# Web-scrapper: This project is created mainly to build a web scrapping model. Used the package of Beautiful soup to create amazing API testing ideas and build automated test scripts. 
+
+Tools used: Selenium, Python
 API testing with Python and Selenium
 
 Import requests
